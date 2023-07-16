@@ -6,9 +6,9 @@ font-family: 'MuseoModerno', cursiva;*/
 body {
     /*background-color: rgb(214, 241, 169)*/
     ;width: 100%; color:rgb(32, 0, 0);background: rgb(206,181,223);
-    background: linear-gradient(90deg, rgba(206,181,223,1) 0%, rgba(99,59,68,1) 0%, rgba(242,75,110,1) 0%, rgba(215,185,197,1) 1%, rgba(253,29,74,0.3550561797752809) 50%, rgba(136,203,255,0.7303370786516854) 100%);
-}
-img{width: 80%;height:80%;border-style:double;border-color: rgb(9, 9, 59);border-width: 20px;box-shadow: 15px 15px 5px rgba(20, 18, 18, 0.342)*/ radio de borde: 21px 52px 150px 39px;
+    background: linear-gradient(90deg, rgba(206,181,223,1) 0%, rgba(99,59,68,1) 0%, rgba(242,75,110,1) 0%, rgba(215,185,197,1) 1%, rgba(253,29,74,0.3550561797752809) 50%, rgba(136,203,255,0.7303370786516854) 100%);}
+
+    img{width: 80%;height:80%;border-style:double;border-color: rgb(9, 9, 59);border-width: 20px;box-shadow: 15px 15px 5px rgba(20, 18, 18, 0.342)*/ radio de borde: 21px 52px 150px 39px;
     -webkit-border-radius: 21px 52px 150px 39px;
     -moz-border-radius: 21px 52px 150px 39px;}
 
